@@ -55,4 +55,21 @@ Sou Vinícius, tenho 19 anos e sou estudante de Tecnologia em Sistemas para Inte
 
 ### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&theme=tokyonight&layout=compact" 
+  />
+
 
