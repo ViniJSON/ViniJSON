@@ -6,8 +6,7 @@
 
 🎯 Desenvolvedor Front-end em evolução
 
-Sou estudante de Tecnologia em Sistemas para Internet no IFSP, apaixonado por tecnologia e desenvolvimento web.  
-Atualmente foco em criar interfaces modernas e responsivas, enquanto evoluo meus conhecimentos em back-end para me tornar um desenvolvedor full stack.
+Sou estudante de Tecnologia em Sistemas para Internet no IFSP, apaixonado por tecnologia e desenvolvimento web. Atualmente foco em criar interfaces modernas e responsivas, enquanto evoluo meus conhecimentos em back-end para me tornar um desenvolvedor full stack.
 
 ---
 
