@@ -61,7 +61,7 @@ Sou Vinícius, tenho 19 anos e sou estudante de Tecnologia em Sistemas para Inte
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
   />
 
   <img 
@@ -69,7 +69,7 @@ Sou Vinícius, tenho 19 anos e sou estudante de Tecnologia em Sistemas para Inte
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&theme=tokyonight&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&theme=tokyonight&layout=compact&cache_seconds=60" 
   />
 
 
