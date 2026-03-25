@@ -1,75 +1,64 @@
-# Vinícius Afonço
+# 👨‍💻 Vinícius Afonço
 
-**`Desenvolvedor Front-end`**
+🎯 Desenvolvedor Front-end em evolução
 
-Sou Vinícius, tenho 19 anos e sou estudante de Tecnologia em Sistemas para Internet no IFSP. Atuo com desenvolvimento front-end utilizando HTML, CSS e Bootstrap. Atualmente, estou expandindo meus conhecimentos em C++, JavaScript e MySQL, buscando evoluir constantemente minhas habilidades e construir soluções cada vez mais completas e eficientes.
+Sou estudante de Tecnologia em Sistemas para Internet no IFSP, apaixonado por tecnologia e desenvolvimento web.  
+Atualmente foco em criar interfaces modernas e responsivas, enquanto evoluo meus conhecimentos em back-end para me tornar um desenvolvedor full stack.
 
+---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias que uso
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## 📊 Estatísticas
 
-<br/>
-<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</div>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
+## Sequência de commits
 
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&theme=tokyonight&layout=compact&cache_seconds=60" 
-  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ViniJSON&theme=tokyonight&hide_border=true"/>
+</div>
 
+---
 
+## 📚 Atualmente estudando
+
+- 🧠 JavaScript (DOM, eventos, lógica)
+- 💻 C++
+- 🗄️ MySQL
+
+---
+
+## 🎯 Objetivo
+
+Me tornar um desenvolvedor full stack e conquistar minha primeira oportunidade na área de tecnologia.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: viniciusafonco5@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/viniciusafon%C3%A7o/
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://github.com/ViniJSON/ViniJSON/blob/output/github-contribution-grid-snake.svg"/>
+</div>
