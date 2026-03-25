@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=800&speed=70&pause=2000&lines=Olá,+eu+sou+Vinícius+Afonço" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=A020F0&size=32&center=true&vCenter=true&width=800&speed=70&pause=2000&lines=Olá,+eu+sou+Vinícius+Afonço" />
 </p>
 
 #
@@ -26,16 +26,16 @@ Atualmente foco em criar interfaces modernas e responsivas, enquanto evoluo meus
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&layout=compact&theme=midnight-purple&cache_seconds=1800"/>
 </div>
 
 ---
 
-## Sequência de commits
+## 🔥 Sequência de commits
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniJSON&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ViniJSON&theme=midnight-purple&hide_border=true"/>
 </div>
 
 ---
@@ -56,8 +56,14 @@ Me tornar um desenvolvedor full stack e conquistar minha primeira oportunidade n
 
 ## 📫 Contato
 
-- 📧 Email: viniciusafonco5@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/viniciusafon%C3%A7o/
+<div>
+  <a href="mailto:viniciusafonco5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/viniciusafon%C3%A7o/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 ---
 
