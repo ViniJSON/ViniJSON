@@ -57,7 +57,7 @@ Me tornar um desenvolvedor full stack e conquistar minha primeira oportunidade n
 ## 📫 Contato
 
 <div>
-  <a href="mailto:viniciusafonco5@gmail.com">
+  <a href="viniciusafonco5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-A020F0?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/viniciusafon%C3%A7o/" target="_blank">
