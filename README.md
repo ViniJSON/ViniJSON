@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=800&speed=70&pause=2000&lines=Olá,+eu+sou+Vinícius+Afonço" />
+</p>
+
 # 👨‍💻 Vinícius Afonço
 
 🎯 Desenvolvedor Front-end em evolução
