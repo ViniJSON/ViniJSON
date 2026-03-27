@@ -22,15 +22,6 @@ Sou estudante de Tecnologia em Sistemas para Internet no IFSP, apaixonado por te
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniJSON&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniJSON&layout=compact&theme=midnight-purple&cache_seconds=1800"/>
-</div>
-
----
-
 ## 🔥 Sequência de commits
 
 <div align="center">
